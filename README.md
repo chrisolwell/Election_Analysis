@@ -43,3 +43,5 @@ Our analysis shows:
 The challenge was to use python to help election officials sort through a large dataset to determine who won an election. To accomplish the task we had to install software, creaate and manage a git repository, write code to loop through the .csv and count how many votes each candidate recieved, and write the results to a .txt file.
 ## Challenge Summary
 To summarize, we accomplished this challenge, as the attached python code and the summarization of our findings above demonstrate. 
+## Additional Opportunities
+The code we wrote to analyze the election data could be used to analyze any election with a few modifications. It could be expanded to include data for statewide offices by inputing statewide voting data in the .csv, or it could drill deeper and breakdown each candidate's vote total in each county. 
